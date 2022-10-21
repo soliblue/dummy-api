@@ -1,9 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "metadata": [
+    {
+      "id": 1,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Soli"
+        },
+        {
+          "trait_type": "Release",
+          "value": "Museum"
+        },
+        {
+          "trait_type": "Track",
+          "value": "Matisse"
+        },
+        {
+          "trait_type": "Release Date",
+          "value": "21. Oct 2022"
+        }
+      ],
+      "description": "Track Matisse from the release Museum by Soli.",
+      "external_url": "https://www.instagram.com/p/Cjw_AgeIE1g/",
+      "image": "https://i.seadn.io/gae/yVQU43a58OU9BYdpahm81jaoWT7SRODuNuwHo7b9Jgtca6BQVP8By7iEgpZjdEDvCncf-prAOndPv-ligCyjqU110yeWPbkkF8DE?auto=format&w=1000",
+      "name": "Matisse | Museum by Soli"
+    }
+  ]
 }
