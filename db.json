@@ -1,4 +1,12 @@
 {
+  "contract":  {
+    "name": "Music Factory",
+    "description": "Music Factory experiment by biddz",
+    "image": "https://musicfactory.biddz.io/static/media/biddz_logo_black.9f452f170b0c72551b53.png",
+    "external_link": "https://musicfactory.biddz.io/",
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "0x224b5cfF215a8fd8A991481A835dDe6Ed70353d0"
+  },
   "metadata": [
     {
       "id": 0,
